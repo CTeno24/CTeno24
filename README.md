@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm [Christiano Claudio Christopher]
 
-<!--
-**CTeno24/CTeno24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Im a final year Bachelor in Computer Science (HONS.) student at UiTM]
 
-Here are some ideas to get you started:
+## About me
+- Studying: [CDCS230], UiTM
+- Currently learning: [CSC649]
+- My FYP area: [Artificial Intelligence/Machine Learning]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+[Python, Git, SQL, Database, Java, JS, Microsoft Words, Microsoft Access, HTML, CSS]
+
+## Projects
+- [Project name](link-to-your-repository): one sentence about it
+
+## Contact
+- LinkedIn: [https://www.linkedin.com/in/christiano-christopher-98ab59344?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
+- Email: [christianoclaudio04@gmail.com]
