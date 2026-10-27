@@ -16,7 +16,7 @@ I'm a final year Bachelor in Computer Science (HONS.) student at UiTM.
 ```yaml
 🧍 Player     : Christiano Claudio Christopher
 🏰 Studying   : CDCS230, UiTM
-🤖 FYP Area   : Artificial Intelligence / Machine Learning
+🤖 FYP Area   : Artificial Intelligence / Machine Learning / Computer Vision
 🎮 Game Mode  : Survival (final year)
 ```
 
