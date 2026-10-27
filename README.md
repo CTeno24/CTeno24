@@ -9,6 +9,10 @@
 
 I'm a final year Bachelor in Computer Science (HONS.) student at UiTM.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CTeno24/CTeno24/output/snake-dark.svg" />
+</p>
+
 ---
 
 ## About me
